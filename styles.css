@@ -5,3 +5,10 @@ h1{
 p{
   color: #32a852;
 }
+div {
+  background-color: #25defa;
+  width: 100px;
+  height: 30px;
+  margin: 30px;
+  padding: 15px;
+}
