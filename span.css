@@ -1,0 +1,15 @@
+#top{
+  font-size: 35px;
+}
+
+#middle{
+  font-size: 25px;
+}
+
+#bottom{
+  font-size: 16px;
+}
+
+.name{
+  font-style: italic;
+}
