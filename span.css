@@ -1,5 +1,6 @@
 #top{
   font-size: 35px;
+  color: red;
 }
 
 #middle{
@@ -12,4 +13,5 @@
 
 .name{
   font-style: italic;
+  color: blue;
 }
